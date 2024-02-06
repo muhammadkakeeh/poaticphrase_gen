@@ -1,13 +1,5 @@
-# co2354d3b8ac9c7d9ffc1c175
-
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
+# poetic phrase generator
+is a tool that uses algorithms and linguistic rules to generate phrases that have the rhythm, rhyme, and emotive qualities typically found in poetry.
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
